@@ -1,0 +1,16 @@
+# Kit CH341A y accesorios – Resumen
+
+- **PCB adaptador verde (YFT-266, YFT24832, etc.)**  
+  → Placa adaptadora para chips SOP/DIP. Permite soldar o insertar memorias y llevarlas a un pinout accesible. Compatible con CH341A.
+
+- **Socket SOP8 (200-209mil)**  
+  → Zócalo de prueba para memorias en encapsulado SOP8. Permite insertar el chip sin soldar para leer/grabar directamente. Compatible con CH341A.
+
+- **Adaptador 1.8V (ALVC164245)**  
+  → Adaptador de voltaje para chips que trabajan a 1.8V. Se coloca entre el programador y el chip para evitar dañarlo. Necesario para memorias modernas (ej. Winbond W25QxxDV).
+
+- **Programador CH341A**  
+  → Programador USB para memorias EEPROM (24xx) y SPI Flash (25xx). Usado en BIOS de PC, routers, TV Box con SPI Flash, IoT. No soporta eMMC/UFS.
+
+- **Clip SOP8 con cable plano**  
+  → Permite programar chips directamente en la placa (in-circuit), sin desoldar. Muy usado para flashear BIOS de notebooks/netbooks. Compatible con CH341A.
